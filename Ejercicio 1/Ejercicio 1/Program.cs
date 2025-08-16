@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string name;
+            Console.WriteLine("¿Cual es tu nombre?");
+            name = Console.ReadLine();
+            Console.WriteLine("Bienvenido " + name );  
+        }
+    }
+}
