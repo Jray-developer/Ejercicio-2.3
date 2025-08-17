@@ -1,0 +1,15 @@
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.exe
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.deps.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.runtimeconfig.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\bin\Debug\net8.0\Ejercicio 4.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.AssemblyInfoInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.AssemblyInfo.cs
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.sourcelink.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\refint\Ejercicio 4.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\Ejercicio 4.genruntimeconfig.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 4\Ejercicio 4\obj\Debug\net8.0\ref\Ejercicio 4.dll
