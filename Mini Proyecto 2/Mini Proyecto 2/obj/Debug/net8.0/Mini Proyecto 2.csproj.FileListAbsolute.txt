@@ -1,0 +1,15 @@
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\bin\Debug\net8.0\Mini Proyecto 2.exe
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\bin\Debug\net8.0\Mini Proyecto 2.deps.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\bin\Debug\net8.0\Mini Proyecto 2.runtimeconfig.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\bin\Debug\net8.0\Mini Proyecto 2.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\bin\Debug\net8.0\Mini Proyecto 2.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.AssemblyInfoInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.AssemblyInfo.cs
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.csproj.CoreCompileInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.sourcelink.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\refint\Mini Proyecto 2.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\Mini Proyecto 2.genruntimeconfig.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Mini Proyecto 2\Mini Proyecto 2\obj\Debug\net8.0\ref\Mini Proyecto 2.dll
