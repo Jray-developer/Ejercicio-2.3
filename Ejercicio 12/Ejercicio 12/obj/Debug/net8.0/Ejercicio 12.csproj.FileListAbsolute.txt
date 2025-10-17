@@ -1,0 +1,15 @@
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\bin\Debug\net8.0\Ejercicio 12.exe
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\bin\Debug\net8.0\Ejercicio 12.deps.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\bin\Debug\net8.0\Ejercicio 12.runtimeconfig.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\bin\Debug\net8.0\Ejercicio 12.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\bin\Debug\net8.0\Ejercicio 12.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.AssemblyInfoInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.AssemblyInfo.cs
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.sourcelink.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\refint\Ejercicio 12.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\Ejercicio 12.genruntimeconfig.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Ejercicio 12\Ejercicio 12\obj\Debug\net8.0\ref\Ejercicio 12.dll
